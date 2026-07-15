@@ -61,12 +61,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hetvi16-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi16-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shethhetvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shethhetvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetvi16-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shethhetvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="60%"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ current_focus = {
 <div align="center">
 
 <!-- Activity Graph -->
-[![Hetvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hetvi16-05&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hetvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shethhetvi&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -116,7 +116,7 @@ current_focus = {
 <div align="center">
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=hetvi16-05&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shethhetvi&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
