@@ -46,7 +46,7 @@ A passionate **Data Scientist & ML enthusiast** focused on turning raw data into
 ## 📈 GitHub & LeetCode Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shethhetvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=shethhetvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shethhetvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7"/>
 </div>
 
